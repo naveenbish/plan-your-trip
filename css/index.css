@@ -1,0 +1,49 @@
+*{
+  margin: 0px;
+  padding: 0PX;
+  box-sizing: border-box;
+}
+.middle-part {
+  display: flex;
+}
+
+.mid-padding {
+  margin: 20px 20px;
+}
+
+.mid-padding-2 {
+  margin: 20px 125px;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.footer {
+  padding: 30px;
+}
+
+.text-size-big {
+  font-size: 30px;
+}
+
+.text-size-sm {
+  font-size: 20px;
+}
+
+.aboutUs{
+  padding: 30px;
+
+}
+
+.aboutUs h2{
+  text-align: center;
+}
+
+.text-center{
+  text-align: center;
+}
